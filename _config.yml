@@ -31,6 +31,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 search_enabled: true
 # Build settings
 remote_theme: pmarsceill/just-the-docs
+#remote_theme: daviddarnes/alembic
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
