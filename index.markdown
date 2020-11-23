@@ -1,7 +1,9 @@
 ---
 layout: page
 ---
-## How to Conduct an EDA Study: Recommendations for Future Work 
+How to Conduct an EDA Study: Recommendations for Future Work 
+{: .fs-7 }
+{: .fw-700 }
 
 ### Authors
 <a href="https://www.linkedin.com/in/ebrahim-babaei-a86a12a2/" rel="author">Ebrahim Babaei</a>
