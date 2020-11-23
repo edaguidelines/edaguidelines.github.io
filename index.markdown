@@ -18,6 +18,8 @@ How to Conduct an EDA Study: Recommendations for Future Work
 This document is developed for improving quality of electrodermal activity practices in HCI and an initial step for co-design standards for HCI electrodermal activity studies.
 ### Versions
 TBD
+<a href="https://zenodo.org/badge/latestdoi/315307498"><img src="https://zenodo.org/badge/315307498.svg" alt="DOI"></a>
+
 ### Citing
 To cite these guidelines use the following bibtex.
 
