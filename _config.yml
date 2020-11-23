@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "EDA Guide-main-minima"
+title: "EDA Guide-main-jtdk"
 
 email: ebabaei@student.unimelb.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
@@ -30,7 +30,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  jekyll
 search_enabled: true
 # Build settings
-#remote_theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs
 #remote_theme: daviddarnes/alembic
 plugins:
   - jekyll-feed
