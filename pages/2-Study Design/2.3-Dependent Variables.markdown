@@ -1,0 +1,18 @@
+---
+layout: page
+title: Dependent varibles
+permalink: /Study_Design/dependent_variables
+author: Ebrahim Babaei
+parent: Study Design
+nav_order: 3
+---
+### Dependent Variables
+<br>
+The choice of which parameters of the EDA signal to analyse should be informed by previous works on the correlation
+between them and different psychological constructs. For example, the SCL and the NS.SCR frequency correlate with
+arousal [8] and the SCR amplitude correlates with the intensity of a stimulus [17]. Further, if deciding to use phasic
+parameters of EDA, researchers must decide on the interval between the presentation of two stimuli—Inter Stimulus
+Interval (ISI). Generally, ISI reported in previous works vary between 20-60s [12], but choosing shorter ISI (e.g., 2-3 sec)
+is possible if using approaches based on mathematical models [8] such as mathematical deconvolution models [1, 6] for
+analysis.
+    

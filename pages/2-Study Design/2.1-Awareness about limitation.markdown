@@ -1,0 +1,29 @@
+---
+layout: page
+title: Awareness about Limitations
+permalink: /study_design/aal
+author: Ebrahim Babaei
+parent: Study Design
+nav_order: 1
+---
+### Awareness about limitations
+<br>
+Like any other physiological signal EDA has limitations that make it unsuitable for certain HCI paradigms. EDA is
+a slowly changing signal—SCRs to a stimulus or arousal-induced tonic changes have a delay of 1 to 3 seconds [12].
+Adding the computational delay for detecting an SCR or a SCL shift might introduce even further lag. Therefore, EDA
+may not be suitable for HCI applications that require real-time responses such as modalities for game interactions or
+biofeedback for drivers.
+Further, a core topic of HCI research is the recognition of physical and mental activity in everyday settings. Studies
+that investigate these are traditionally conducted in laboratory settings followed by in-the-wild setups utilizing medicalgrade devices and mostly apply no restriction on participants’ activities and movements and in most cases tasks include
+intense movements and activities. On the other hand, the correct sensor placement and signal processing approaches
+are crucial for obtaining meaningful EDA signals. Consequently, a potentially incorrect placement of the sensors,
+or displacement during a study (which is likely in the presence of intense movements), and the resulting very low signal-noise-ratio (SNR) through motion artifacts increase the risk of false signal readings [20, 21]. In addition to motion
+artifacts, during intense physical activities, the human body increases sweating to lower the body temperature, which
+also affects the EDA signal. Furthermore, due to the realistic tasks in most of in-the-wild setups, HCI researchers are
+forced to use less obtrusive and less invasive mobile EDA devices to conduct their studies which record lower quality
+EDA signals. Therefore, before designing such studies, considering the activities in our study, we must make sure if
+EDA is a fit for measuring psychological constructs in our study.
+EDA caused by the activation of sympathetic nervous system which is responsible for fight or flight actions and
+mostly cause negative feeling such as stress and arousal. Therefore, the ability of EDA in measuring physiological
+signals is limited to negative physiological constructs. For instance, EDA has not shown any evidence of insight about
+the positive experience of valence [10].

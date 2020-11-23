@@ -1,0 +1,19 @@
+---
+layout: page
+title: Pre-processing
+permalink: /analysis/pre
+author: Ebrahim Babaei
+nav_order:  1
+parent : Analysis
+
+---
+### Preprocessing
+<br>
+When pre-processing EDA data, one typically down-samples or filters the data with a low-pass filer (generally <10
+Hz) [11]. The next step is to remove artifacts of electrodes displacements. Motion artifacts can be identified by visual inspection of the data [8], but this is cumbersome for very large datasets. [11] recommends setting a signal-change
+threshold criterion and reject changes that violate this threshold. Kleckner et al. [18] developed an automated quality
+assessment for ambulatory data, that can be used to remove motion artifacts from acquired EDA data. This tool is
+publicly available<sup><a href="#fn1" id="ref1">1</a></sup> and detects out-of-range values, fast changes in EDA, moments in which the device was not being
+worn, and data surrounding invalid data.
+
+<sup id="fn1">1.<a href="https://github.com/iankleckner/EDAQA" id="ref1">EDAQA</a></sup>

@@ -1,0 +1,33 @@
+---
+layout: page
+title: Model-based Approaches
+permalink: /analysis/mba
+author: Ebrahim Babaei
+nav_order: 3
+parent: Analysis
+
+---
+
+### Model based Approaches
+<br>
+The main issue with the conventional peak detection method for analysis described so far is how it handles superimposed
+SCRs [5]. In this case, an SCR onset starts before the termination of the previous SCR, e.g., when the ISI is very short (e.g.,
+2 seconds). Based on the time that the second SCR starts, there might not be enough time for the first SCR to recover
+or, in some cases, even to reach its peak. This makes the conventional analysis challenging, because we cannot detect
+peaks and measure recovery time of an incomplete SCR. To address this issue, researchers have proposed model-based
+approaches. These models automatically decompose the EDA signal and measure phasic and tonic parameters. These
+approaches assume that sympathetic processes that generate EDA can be described as time series of a mathematical
+model (e.g. time-invariant model [3]) and then use the recorded EDA data to estimate the time series process that
+generated the EDA values. With this we can understand central process caused an EDA data and then we can measure EDA parameters.<br><br>
+One of the most well-known methods for decomposing EDA data to tonic and phasic drivers is the Continuous
+Deconvolution Analysis (CDA) [5, 6], which uses a mathematical model of sweat diffusion. CDA is implemented in the
+<a href="http://www.ledalab.de/">LedaLab toolbox</a>. Greco et al. [14] proposed cvxEDA, which considers EDA as an autonomic nervous system activity
+and models it using convex optimisation. Implementations of this model are publicly available<sup><a href="#fn3" id="ref3">1</a></sup>. Bach et al. [3] proposed
+another approach that assumes a linear time invariant model generates SCRs. This model is implemented in <a href="http://pspm.sourceforge.net">PsPM</a>
+toolbox. SparsEDA [16] is another publicly available<sup><a href="#fn5" id="ref5">2</a></sup> model which is fast and efficient in lower sample rates and suitable
+for wearable devices. In addition to above-mentioned models, many other models proposed for psycho-physiological
+modeling each assuming a different type of function is driver of SCR. Reviewing all these methods is out of scope of this
+paper; however, to find the best model to use for your study you can refer to reviews [2, 4, 15, 19] on these methods.
+
+<sup id="fn3">1.<a href="https://github.com/lciti/cvxEDA" id="ref3">cvxEDA</a></sup>
+<sup id="fn5">2.<a href="https://github.com/fhernandogallego/sparsEDA" id="ref5">sparseEDA</a></sup>

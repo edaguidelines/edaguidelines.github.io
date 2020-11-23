@@ -1,0 +1,25 @@
+---
+layout: page
+title: Discrete vs continous stimuli
+permalink: /Study_Design/discrete_vs_continous_stimuli
+author: Ebrahim Babaei
+parent: Study Design
+nav_order: 2
+has_toc: false
+
+---
+### Discrete vs Continous Stimuli
+<br>
+The first crucial step when designing an EDA study is to decide on the type of stimulus to be used. Depends on the goal
+of their study and the type of their stimulus researchers have to pick from three paradigms for using EDA—presenting
+discrete stimuli, presenting continuous stimuli, and investigating the correlation of individual traits and EDA [12]. We
+note that all works in our sample in the paper, A Critique of Electrodermal Activity Practices at CHI [--] involved only the first two paradigms.
+- <b>First Paradigm:</b> When designing a study where a series of discrete stimuli, each lasting a few seconds, is presented to
+participants, interleaved with rest periods (Inter-Stimulus Interval (ISI)), researchers shall use phasic parameters of the
+EDA signal. The phasic parameters enable measuring novelty, significance, and intensity of the stimuli used. In our
+sample of papers, orienting response (see Section 4.7 of paper) is the only discrete stimulus paradigm employed in CHI.
+- <b>Second Paradigm:</b> Contrary to the first paradigm, studies investigating the effect of continuous stimuli, such as long
+lasting situations or tasks, on EDA, shall analyse the tonic parameters of the EDA signal. Tonic parameters, such as SCL
+and NS.SCR frequency, are defined by the before-mentioned slow response to changes in conditions such as cognitive
+workload or stress. SCL and NS.SCR frequencies are the most common measures in this paradigm, which is the most
+widely used paradigm in current EDA studies published at CHI.

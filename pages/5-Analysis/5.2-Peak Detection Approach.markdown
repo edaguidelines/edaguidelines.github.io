@@ -1,0 +1,47 @@
+---
+layout: page
+title: Peak Detection Approach
+permalink: /analysis/pda
+author: Ebrahim Babaei
+nav_order: 2
+parent: Analysis
+
+---
+
+## Peak Detection Approaches
+<br>
+In this section, we describe the conventional peak detection approach for analysing and parameterising EDA signals.
+Depending on the parameters of interest, the following process can be followed for phasic and tonic parameters.
+	<br>
+- <b>Phasic parameters:</b> In the presence of a stimulus, one can measure EDA parameters by following these steps,
+derived from Dawson et al. [12]’s and Boucsein [7]’s recommendations.
+1. <b>Choose a time window for latency:</b> The presentation of a stimulus may cause SCRs, but the skin may generate
+1 to 3 NS.SCR per minute [12]. Therefore, it is necessary to specify a time window during which it is assumed
+that a SCR is related to the corresponding stimulus. Recommended time window is 1-3 sec or 1-4 sec [12].
+1. <b>Decide on the minimum amplitude criterion:</b> Deflections in EDA signals may happen because of SCRs,
+device errors, or the movements of electrodes. Therefore it is necessary to define a minimum amplitude criterion,
+above which an EDA rise is assumed to be a response. Generally, values between 0.01-0.05𝜇𝑆 s are used as a
+minimum amplitude [12].
+1. <b>Detect rise time:</b> After detecting an SCR, the next step is to measure the rise time, which is the time between
+the initial onset and the consecutive peak. It can be measured using the first derivative of the EDA signal. At the
+point that first derivative stably becomes zero and negative afterward, peak is reached. a After measuring the
+rise time, one can compute the SCR amplitude by subtracting the peak from the EDA value before the onset.
+1. <b>Recovery Time:</b> After detecting the peak, it is necessary to measure the recovery time. As defined in Table 1 in
+the paper, the recovery time is the period where there is a decline in amplitude after reaching the peak amplitude.
+However, such amplitude recovery does not happen fully, mostly due to tonic shifts in the EDA signal [7] and
+increased moisture on the skin because of SCR Boucsein et al. [8]. The characteristic exponential EDA recovery
+can be calculated using a time constant. It is usually measured as rec.t/2, i.e., the time to recover half of the SCR
+amplitude and rec.tc which is the time to recover 63% of the SCR amplitude Boucsein et al. [8].
+
+	<br>
+- <b>Tonic Parameters:</b> Measuring tonic parameters of EDA is much easier than phasic parameters. Below, we
+explain the measurement process of two tonic parameters SCL and NS.SCR frequency.
+1. <b>SCL:</b> Changes in SCL are much slower than SCR. It usually takes between 10 to 30s for SCL to change [7].
+Therefore, to measure SCL, some methods simply use the mean [22] or minimum [7] of EDA values within an
+appropriate time interval (e.g., 10 seconds [7]). However, Dawson et al. [12] suggests to correct the range of SCLin which 𝑆𝐶𝐿𝑚𝑎𝑥 and 𝑆𝐶𝐿𝑚𝑖𝑛 are maximum and minimum SCL experienced by participant during the experiment to correct SCL values based on range of participants’ SCL.
+1. <b>NS.SCR Frequency:</b> This parameter describes the number of non-specific SCRs per minute in the absence of any
+stimulus, and can be computed by applying Step 2 (decide on minimum amplitude criterion) of measuring phasic
+parameters and counting the number of significant SCRs in a minute. In cases in which a stimulus was presented
+during the recording and still measuring NS.SCR frequency in ISIs are of interest, Boucsein [7] recommends to
+withdraw responses elicited earlier than 5 seconds after stimulus(as they may be caused by stimulus) and only
+consider responses elicited later than 5 seconds after stimulus terminates as NS.SCRs.

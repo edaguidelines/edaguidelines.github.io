@@ -1,0 +1,21 @@
+---
+layout: page
+title: Control for extraneous effects
+permalink: /Study_Design/control_for_extraneous_effects
+author: Ebrahim Babaei
+parent: Study Design
+nav_order: 4
+---
+
+### Control for Extraneous Effects
+<br>
+In an EDA study extraneous factors such as talking, deep inhalation, and body movements lead to SCRs to appear in the
+data [7]. Therefore, it is important to minimize them as much as possible starting with the study designs. This includes
+ensuring that the EDA sensors are properly attached to the participant’s body. Furthermore, unnecessary speaking
+and movement should be avoided. If that is not possible, additional modalities can be recorded synchronously, such as movement through accelerometer and gyroscope, or audio level through microphones, in order to be able to detect their
+potential affect on the EDA signal. Especially physical activity, such as spontaneous arm movements, might require
+looking at the spectral band of the EDA signal, as brisk movements typically result in the representation of a typical
+0.37 Hz components in the EDA signal. Further, if comparing EDA signals in different conditions of an experiment, it is
+important to balance the effects of these external factors across conditions. Temperature and humidity are ambient
+variables that may impact EDA recordings [7]. Though it may not be possible to control them in ambulatory recordings,
+they should be controlled in laboratory studies.
