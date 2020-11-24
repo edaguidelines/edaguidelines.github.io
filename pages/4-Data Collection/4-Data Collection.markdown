@@ -9,6 +9,7 @@ has_toc: false
 ---
 ## DATA COLLECTION
 <br>
+<p align="justify">
 Before beginning any data collection, researchers have to ensure the proper preparation of the part of the skin where the
 electrode will be attached to, e.g., by washing it with lukewarm water. If required, researchers should apply electrolyte on
 the electrodes and attach them to the skin of the participant. Then, they should wait 5-10 minutes to make participants
@@ -20,7 +21,7 @@ tonic SCL signal components Braithwaite et al. [9]. The main problem with this i
 tonic processes or by artefacts. If a drift is detected, e.g., by comparing to a separate baseline recording Posada-Quintero
 et al. [21] (see Braithwaite et al. [9] for a detailed guide on how to differentiate drift from tonic processes). We developed
 a summarizing flowchart of the steps researchers must take for running an EDA study according to Boucsein et al. [8]’s
-recommendations and presented these steps in detail in Figure 1 and 2.
+    recommendations and presented these steps in detail in Figure 1 and 2.</p>
     
 <figure>
   <img src="/images/123.svg"  alt="Fig1" style="width:100%">

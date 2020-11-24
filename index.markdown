@@ -15,9 +15,8 @@ How to Conduct an EDA Study: Recommendations for Future Work
 <a href="https://eduardovelloso.com/" rel="author">Eduardo Velloso</a>
 
 ### Preface
-This document is developed for improving quality of electrodermal activity practices in HCI and an initial step for co-design standards for HCI electrodermal activity studies.
+This document developed for improving quality of electrodermal activity practices in CHI and an initial step for co-design standards for HCI electrodermal activity studies.
 ### Versions
-TBD
 <a href="https://zenodo.org/badge/latestdoi/315307498"><img src="https://zenodo.org/badge/315307498.svg" alt="DOI"></a>
 
 ### Citing
