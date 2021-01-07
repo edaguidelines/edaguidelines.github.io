@@ -49,5 +49,5 @@ note = {(in press)}
 ```
 
 ### Contribution
-We appreciate help and contribution to improve these guidelines in future versions.
-Please refer to [github link] for downloading the repository and style guide please refer to [style guide link].
+We appreciate any feedback and contribution to improve these guidelines in future versions.
+Please refer to <a href="https://github.com/edaguidelines/edaguidelines.github.io" >github repository</a> for downloading the files of current version and have a look at <a href="https://pmarsceill.github.io/just-the-docs/" >style guide</a>.
