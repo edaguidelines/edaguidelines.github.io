@@ -80,3 +80,5 @@ AuthType=sso&db=a9h&AN=3762389&site=eds-live&scope=site&custid=s2775460
 <br><br>
 [23] Stephanie A. Shields, Kathleen A. MacDowell, Sarah B. Fairchild, and Mary L. Campbell. 1987. Is Mediation of Sweating Cholinergic, Adrenergic, or
 Both? A Comment on the Literature. , 312–319 pages. https://doi.org/10.1111/j.1469-8986.1987.tb00301.x
+<br><br>
+[24] Ebrahim Babaei, Benjamin Tag, Tilman Dingler, and Eduardo Velloso. 2021. ACritique of Electrodermal Activity Practices at CHI. (2021).   https://doi.org/10.1145/3411764.3445370 (in press)

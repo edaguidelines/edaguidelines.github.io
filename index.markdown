@@ -43,7 +43,7 @@ publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 doi = {10.1145/3411764.3445370},
 booktitle = {Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},
-series = {CHI '21}
+series = {CHI '21},
 note = {(in press)}
 }
 ```
