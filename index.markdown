@@ -26,7 +26,7 @@ To cite these guidelines use the following bibtex.
 @misc{EDAGuide50:online,
 author = {Babaei, Ebrahim and Tag, Benjamin and Dingler, Tilman and Velloso, Eduardo},
 title = {How to Conduct an EDA Study: Recommendations for Future Work},
-howpublished = {\url{http:[link]]},
+howpublished = {\url{https://edaguidelines.github.io/}},
 month = {11},
 year = {2020},
 }
