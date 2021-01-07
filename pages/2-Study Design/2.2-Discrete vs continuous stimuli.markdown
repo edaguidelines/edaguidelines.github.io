@@ -12,13 +12,11 @@ has_toc: false
 <br>
 <p align="justify">The first crucial step when designing an EDA study is to decide on the type of stimulus to be used. Depends on the goal
 of their study and the type of their stimulus researchers have to pick from three paradigms for using EDA—presenting
-discrete stimuli, presenting continuous stimuli, and investigating the correlation of individual traits and EDA [12]. We
-note that all works in our sample in the paper, A Critique of Electrodermal Activity Practices at CHI [--] involved only the first two paradigms.</p>
+discrete stimuli, presenting continuous stimuli, and investigating the correlation of individual traits and EDA [12]. According to Babaei et. al. [24] EDA practices in CHI only involved only the first two paradigms.</p>
 <p align="justify">
 - <b>First Paradigm:</b> When designing a study where a series of discrete stimuli, each lasting a few seconds, is presented to
 participants, interleaved with rest periods (Inter-Stimulus Interval (ISI)), researchers shall use phasic parameters of the
-EDA signal. The phasic parameters enable measuring novelty, significance, and intensity of the stimuli used. In our
-sample of papers, orienting response (see Section 4.7 of paper[--]) is the only discrete stimulus paradigm employed in CHI.
+EDA signal. The phasic parameters enable measuring novelty, significance, and intensity of the stimuli used. Orienting response is the only discrete stimulus paradigm employed in CHI to date [24].
     </p>
 
 <p align="justify">
