@@ -8,7 +8,7 @@ nav_order: 1
 ## INTRODUCTION
 <br>
 <p align="justify">
-Our findings in a systematic review[cite to ou paper] on EDA publications in CHI, highlighted severe issues with how EDA data has been collected and analysed by the CHI community. In this
+Our findings in a systematic review [24] on EDA publications in CHI, highlighted severe issues with how EDA data has been collected and analysed by the CHI community. In this
 page, we propose a set of recommendations for improving practices for designing and conducting studies involving
 the analysis of EDA data. Our recommendations focus on the issues of highest concern in previous EDA studies in CHI
 and provide a template for reporting the results of future studies. These recommendations shall serve as a minimum
