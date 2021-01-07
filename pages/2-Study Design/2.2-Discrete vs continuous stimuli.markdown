@@ -18,7 +18,7 @@ note that all works in our sample in the paper, A Critique of Electrodermal Acti
 - <b>First Paradigm:</b> When designing a study where a series of discrete stimuli, each lasting a few seconds, is presented to
 participants, interleaved with rest periods (Inter-Stimulus Interval (ISI)), researchers shall use phasic parameters of the
 EDA signal. The phasic parameters enable measuring novelty, significance, and intensity of the stimuli used. In our
-sample of papers, orienting response (see Section 4.7 of paper) is the only discrete stimulus paradigm employed in CHI.
+sample of papers, orienting response (see Section 4.7 of paper[--]) is the only discrete stimulus paradigm employed in CHI.
     </p>
 
 <p align="justify">

@@ -34,15 +34,17 @@ year = {2020},
 You can cite our paper, "A Critique of Electrodermal Activity Practices at CHI" with the following bibtex.
 
 ```
-@inproceedings{,
+@unpublished{10.1145/3411764.3445370,
 author = {Babaei, Ebrahim and Tag, Benjamin and Dingler, Tilman and Velloso, Eduardo},
-title = {----------------},
+title = {A Critique of Electrodermal Activity Practices at CHI},
 year = {2021},
-isbn = {-----},
+isbn = {978-1-4503-8096-6/21/05},
 publisher = {Association for Computing Machinery},
-address = {-----},
-url = {https://doi.org/10.1145/3313831.3376566},
-doi = {------------},
+address = {New York, NY, USA},
+doi = {10.1145/3411764.3445370},
+booktitle = {Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},
+series = {CHI '21}
+note = {(in press)}
 }
 ```
 
