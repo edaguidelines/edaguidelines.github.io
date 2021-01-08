@@ -82,3 +82,16 @@ AuthType=sso&db=a9h&AN=3762389&site=eds-live&scope=site&custid=s2775460
 Both? A Comment on the Literature. , 312–319 pages. https://doi.org/10.1111/j.1469-8986.1987.tb00301.x
 <br><br>
 [24] Ebrahim Babaei, Benjamin Tag, Tilman Dingler, and Eduardo Velloso. 2021. ACritique of Electrodermal Activity Practices at CHI. (2021).   https://doi.org/10.1145/3411764.3445370 (in press)
+<br><br>
+[25] Dindar Bari. 2020. Gender Differences in Tonic and Phasic Electrodermal ActivityComponents.Science Journal of University of Zakho8, 1 (Mar. 2020), 29–33.https://doi.org/10.25271/sjuoz.2020.8.1.670
+<br><br>
+[26] Dindar S. Bari, Haval Y. Yacoob Aldosky, and Ørjan G. Martinsen. 2020. Simultaneous measurement of electrodermal activity components correlated with
+age-related differences. Journal of Biological Physics 46, 2 (01 Jun 2020), 177–188.
+https://doi.org/10.1007/s10867-020-09547-4
+<br><br>
+[27] Steve Chamberlin, Agatha P. Colbert, and Adrian Larsen. 2011. Skin Conductance at 24 Source (Yuan) Acupoints in 8637 Patients: Influence of Age, Gender and Time of Day. Journal of Acupuncture and Meridian Studies 4, 1 (2011), 14 – 23. https://doi.org/10.1016/S2005-2901(11)60003-4
+<br><br>
+[28] Laverne C. Johnson and Marvin M. Landon. 1965. Eccrine sweat gland activity and racial differences in resting skin conductance. Psychophysiology 1, 4 (1965), 322–329. https://doi.org/10.1111/j.1469-8986.1965.tb03264.x
+<br><br>
+[29]  Israel Lieblich, Sol Kugelmass, and Gershon Ben-Shakhar. 1973. Psychophysiological Baselines as a Function of Race and Ethnic Origin.
+Psychophysiology 10, 4 (1973), 426–430. https://doi.org/10.1111/j.14698986.1973.tb00800.x arXiv:https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.14698986.1973.tb00800.x

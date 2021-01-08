@@ -11,7 +11,7 @@ has_toc: false
 ### Discrete vs Continous Stimuli
 <br>
 <p align="justify">The first crucial step when designing an EDA study is to decide on the type of stimulus to be used. Depends on the goal
-of their study and the type of their stimulus researchers have to pick from three paradigms for using EDA—presenting
+of their study and the type of their stimulus researchers have to pick from three paradigms for using EDA-presenting
 discrete stimuli, presenting continuous stimuli, and investigating the correlation of individual traits and EDA [12]. According to Babaei et. al. [24] EDA practices in CHI only involved only the first two paradigms.</p>
 <p align="justify">
 - <b>First Paradigm:</b> When designing a study where a series of discrete stimuli, each lasting a few seconds, is presented to
