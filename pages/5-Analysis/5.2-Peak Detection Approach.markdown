@@ -40,7 +40,7 @@ explain the measurement process of two tonic parameters SCL and NS.SCR frequency
 Therefore, to measure SCL, some methods simply use the mean [22] or minimum [7] of EDA values within an
 appropriate time interval (e.g., 10 seconds [7]). However, Dawson et al. [12] suggests to correct the range of SCL by following formula:
     <br><br>
-    <p style="text-align:center;">𝐶𝑜𝑟𝑟𝑒𝑐𝑡𝑒𝑑𝑆𝐶𝐿 = (𝑆𝐶𝐿 − 𝑆𝐶𝐿𝑚𝑎𝑥)/(𝑆𝐶𝐿𝑚𝑎𝑥 − 𝑆𝐶𝐿𝑚𝑖𝑛)</p>
+    <a style="text-align:center;">𝐶𝑜𝑟𝑟𝑒𝑐𝑡𝑒𝑑𝑆𝐶𝐿 = (𝑆𝐶𝐿 − 𝑆𝐶𝐿𝑚𝑎𝑥)/(𝑆𝐶𝐿𝑚𝑎𝑥 − 𝑆𝐶𝐿𝑚𝑖𝑛)</a>
     <br><br>
 in which 𝑆𝐶𝐿𝑚𝑎𝑥 and 𝑆𝐶𝐿𝑚𝑖𝑛 are maximum and minimum SCL experienced by participant during the experiment to correct SCL values based on range of participants’ SCL.</p>
 1. <p align="justify"><b>NS.SCR Frequency:</b> This parameter describes the number of non-specific SCRs per minute in the absence of any
