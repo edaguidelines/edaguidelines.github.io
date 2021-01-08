@@ -38,12 +38,9 @@ amplitude and rec.tc which is the time to recover 63% of the SCR amplitude Boucs
 explain the measurement process of two tonic parameters SCL and NS.SCR frequency.
 1. <p align="justify"><b>SCL:</b> Changes in SCL are much slower than SCR. It usually takes between 10 to 30s for SCL to change [7].
 Therefore, to measure SCL, some methods simply use the mean [22] or minimum [7] of EDA values within an
-appropriate time interval (e.g., 10 seconds [7]). However, Dawson et al. [12] suggests to correct the range of SCL by following formula:
-
-```
+appropriate time interval (e.g., 10 seconds [7]). However, Dawson et al. [12] suggests to correct the range of SCL by following formula: ```
 𝐶𝑜𝑟𝑟𝑒𝑐𝑡𝑒𝑑𝑆𝐶𝐿 = (𝑆𝐶𝐿 − 𝑆𝐶𝐿𝑚𝑎𝑥)/(𝑆𝐶𝐿𝑚𝑎𝑥 − 𝑆𝐶𝐿𝑚𝑖𝑛)
-```
-in which 𝑆𝐶𝐿𝑚𝑎𝑥 and 𝑆𝐶𝐿𝑚𝑖𝑛 are maximum and minimum SCL experienced by participant during the experiment to correct SCL values based on range of participants’ SCL.</p>
+``` in which 𝑆𝐶𝐿𝑚𝑎𝑥 and 𝑆𝐶𝐿𝑚𝑖𝑛 are maximum and minimum SCL experienced by participant during the experiment to correct SCL values based on range of participants’ SCL.</p>
 1. <p align="justify"><b>NS.SCR Frequency:</b> This parameter describes the number of non-specific SCRs per minute in the absence of any
 stimulus, and can be computed by applying Step 2 (decide on minimum amplitude criterion) of measuring phasic
 parameters and counting the number of significant SCRs in a minute. In cases in which a stimulus was presented
