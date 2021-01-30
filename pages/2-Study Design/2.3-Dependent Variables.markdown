@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dependent varibles
+title: Dependent variables
 permalink: /Study_Design/dependent_variables
 author: Ebrahim Babaei
 parent: Study Design
