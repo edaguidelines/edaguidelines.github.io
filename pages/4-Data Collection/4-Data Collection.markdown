@@ -28,6 +28,6 @@ a summarizing flowchart of the steps researchers must take for running an EDA st
 </figure>
 
 <figure>
-  <img src="/images/5.svg"  alt="Fig2" style="width:75%">
+  <img src="/images/Drawing5-revised-1.jpg"  alt="Fig2" style="width:75%">
   <figcaption>Fig.2 Flowchart of guide for installing and running an EDA study</figcaption>
 </figure>
