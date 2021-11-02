@@ -20,7 +20,7 @@ This document developed for improving quality of electrodermal activity practice
 <a href="https://zenodo.org/badge/latestdoi/315307498"><img src="https://zenodo.org/badge/315307498.svg" alt="DOI"></a>
 
 ### Citing
-These guidelines is a supplemantary material for our paper,<a href= "https://dl.acm.org/doi/abs/10.1145/3411764.3445370">A Critique of Electrodermal Activity Practices at CHI</a>. If you are using the guidelines in this webpage please cite our paper using following bibtex.
+These guidelines are supplementary material for our paper, <a href= "https://dl.acm.org/doi/abs/10.1145/3411764.3445370">A Critique of Electrodermal Activity Practices at CHI</a>. If you are using the guidelines in this webpage, please cite our paper using the following BibTeX.
 
 ```
 @inbook{10.1145/3411764.3445370,
