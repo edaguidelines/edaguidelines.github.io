@@ -20,31 +20,28 @@ This document developed for improving quality of electrodermal activity practice
 <a href="https://zenodo.org/badge/latestdoi/315307498"><img src="https://zenodo.org/badge/315307498.svg" alt="DOI"></a>
 
 ### Citing
-To cite these guidelines use the following bibtex.
+These guidelines is a supplemantary material for our paper,<a href= "https://dl.acm.org/doi/abs/10.1145/3411764.3445370">A Critique of Electrodermal Activity Practices at CHI</a>. If you are using the guidelines in this webpage please cite our paper using following bibtex.
 
 ```
-@misc{EDAGuide50:online,
-author = {Babaei, Ebrahim and Tag, Benjamin and Dingler, Tilman and Velloso, Eduardo},
-title = {How to Conduct an EDA Study: Recommendations for Future Work},
-howpublished = {\url{https://edaguidelines.github.io/}},
-month = {11},
-year = {2020},
-}
-```
-You can cite our paper, "A Critique of Electrodermal Activity Practices at CHI" with the following bibtex.
-
-```
-@unpublished{10.1145/3411764.3445370,
+@inbook{10.1145/3411764.3445370,
 author = {Babaei, Ebrahim and Tag, Benjamin and Dingler, Tilman and Velloso, Eduardo},
 title = {A Critique of Electrodermal Activity Practices at CHI},
 year = {2021},
-isbn = {978-1-4503-8096-6/21/05},
+isbn = {9781450380966},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
-doi = {10.1145/3411764.3445370},
+url = {https://doi.org/10.1145/3411764.3445370},
+abstract = { Electrodermal activity data is widely used in HCI to capture rich and unbiased signals.
+Results from related fields, however, have suggested several methodological issues
+that can arise when practices do not follow established standards. In this paper,
+we present a systematic methodological review of CHI papers involving the use of EDA
+data according to best practices from the field of psychophysiology, where standards
+are well-established and mature. We found severe issues in our sample at all stages
+of the research process. To ensure the validity of future research, we highlight pitfalls
+and offer directions for how to improve community standards.},
 booktitle = {Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},
-series = {CHI '21},
-note = {(in press)}
+articleno = {177},
+numpages = {14}
 }
 ```
 
