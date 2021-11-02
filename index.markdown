@@ -31,14 +31,6 @@ isbn = {9781450380966},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 url = {https://doi.org/10.1145/3411764.3445370},
-abstract = { Electrodermal activity data is widely used in HCI to capture rich and unbiased signals.
-Results from related fields, however, have suggested several methodological issues
-that can arise when practices do not follow established standards. In this paper,
-we present a systematic methodological review of CHI papers involving the use of EDA
-data according to best practices from the field of psychophysiology, where standards
-are well-established and mature. We found severe issues in our sample at all stages
-of the research process. To ensure the validity of future research, we highlight pitfalls
-and offer directions for how to improve community standards.},
 booktitle = {Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},
 articleno = {177},
 numpages = {14}
